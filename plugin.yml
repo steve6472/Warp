@@ -1,0 +1,7 @@
+name: Warp
+version: 69.420.177016
+authors: [steve6472]
+main: warp.Warp
+description: A simple /warp
+website: fuck you
+commands:
