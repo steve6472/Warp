@@ -1,0 +1,4 @@
+name: Warp
+version: ${project.version}
+main: com.steve6472.warp.Warp
+api-version: 1.15
