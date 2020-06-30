@@ -58,6 +58,8 @@ public class Warp extends JavaPlugin implements Listener
 		new DelWarpCommand(this);
 		new EditWarpCommand(this);
 		new SilentWarpCommand(this);
+		new HomeCommand(this);
+		new SpawnCommand(this);
 
 		/* Misc Commands */
 		new GetUUIDCommand(this);

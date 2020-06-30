@@ -10,10 +10,12 @@ com\steve6472\warp\commands\warp\DelWarpCommand.class
 com\steve6472\warp\commands\exception\NotCreatorException.class
 com\steve6472\warp\commands\exception\TooManyFunctionsException.class
 com\steve6472\warp\commands\warp\AbstractWarpCommand.class
+com\steve6472\warp\commands\warp\HomeCommand.class
 com\steve6472\warp\commands\misc\GetUUIDCommand.class
 com\steve6472\warp\WarpEntry.class
 com\steve6472\warp\WarpEventListener.class
 com\steve6472\warp\commands\exception\NotPlayerException.class
 com\steve6472\warp\commands\warp\SilentWarpCommand.class
 com\steve6472\warp\commands\warp\SetWarpCommand.class
+com\steve6472\warp\commands\warp\SpawnCommand.class
 com\steve6472\warp\commands\CommandException.class
